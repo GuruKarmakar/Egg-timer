@@ -1,0 +1,105 @@
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="run-configuration-type">
+      <project id="Whatsappclone" values="AndroidRunConfigurationType" collectionTime="1528700976352" />
+      <project id="ErexAndroid" values="AndroidRunConfigurationType" collectionTime="1526692851962" />
+      <project id="MyApplication" values="AndroidRunConfigurationType" collectionTime="1526611451725" />
+    </group>
+    <group name="module type">
+      <project id="Whatsappclone" values="JAVA_MODULE" collectionTime="1528700976352" />
+      <project id="ErexAndroid" values="JAVA_MODULE" collectionTime="1526692851961" />
+      <project id="MyApplication" values="JAVA_MODULE" collectionTime="1526611451724" />
+    </group>
+    <group name="vcs">
+      <project id="Whatsappclone" values="Git" collectionTime="1528700976352" />
+      <project id="ErexAndroid" values="Git" collectionTime="1526692851954" />
+      <project id="MyApplication" values="Git" collectionTime="1526611451720" />
+    </group>
+    <group name="VCS Log 2">
+      <project id="Whatsappclone" values="data.branches.count.0,data.users.count.0,data.commit.count.0,data.git.root.count.1" collectionTime="1528700976605" />
+    </group>
+    <group name="VCS Log Ui Settings">
+      <project id="Whatsappclone" values="ui.details.enabled,ui.sort.bek.disabled,ui.textFilter.regex.disabled,ui.highlighter.MERGE_COMMITS.enabled,ui.long.edges.disabled,ui.highlighter.MY_COMMITS.enabled,ui.highlighter.CURRENT_BRANCH.enabled,ui.labels.compact.enabled,ui.textFilter.matchCase.disabled,ui.labels.showTagNames.disabled,ui.sort.normal.enabled,ui.sort.linear.bek.disabled" collectionTime="1528700976605" />
+    </group>
+    <group name="file-type">
+      <project id="Whatsappclone" values="XML,Groovy,IDEA_MODULE,Images,ProGuard File,ARCHIVE,PLAIN_TEXT,JAVA,Properties" collectionTime="1528700976571" />
+      <project id="ErexAndroid" values="PLAIN_TEXT,XML,Properties,JAVA,ProGuard File,Images,Groovy,ARCHIVE,IDEA_MODULE" collectionTime="1526692852283" />
+      <project id="MyApplication" values="IDEA_MODULE,ProGuard File,Groovy,JAVA,XML,PLAIN_TEXT,APK,Images,Properties,JSON,ARCHIVE" collectionTime="1526611451862" />
+    </group>
+    <group name="Run Dashboard">
+      <project id="Whatsappclone" values="run.dashboard.disabled" collectionTime="1528700976574" />
+      <project id="ErexAndroid" values="run.dashboard.disabled" collectionTime="1526692852290" />
+      <project id="MyApplication" values="run.dashboard.disabled" collectionTime="1526611451867" />
+    </group>
+    <group name="kotlin.formatter">
+      <project id="Whatsappclone" values="kotlin.formatter.kind.idea_default,kotlin.formatter.defaults.null" collectionTime="1528700977042" />
+      <project id="ErexAndroid" values="kotlin.formatter.kind.idea_default,kotlin.formatter.defaults.null" collectionTime="1526692853014" />
+      <project id="MyApplication" values="kotlin.formatter.defaults.null,kotlin.formatter.kind.idea_default" collectionTime="1526611452296" />
+    </group>
+    <group name="module-language-level">
+      <project id="Whatsappclone" values="JDK_1_7" collectionTime="1528700976605" />
+      <project id="ErexAndroid" values="JDK_1_7" collectionTime="1526692852361" />
+      <project id="MyApplication" values="JDK_1_7" collectionTime="1526611451909" />
+    </group>
+    <group name="frameworks">
+      <project id="Whatsappclone" values="java-gradle,android-gradle,android" collectionTime="1528700976352" />
+      <project id="ErexAndroid" values="android,java-gradle,android-gradle" collectionTime="1526692851960" />
+      <project id="MyApplication" values="java-gradle,android,android-gradle" collectionTime="1526611451723" />
+    </group>
+    <group name="vcs-stats">
+      <project id="Whatsappclone" values="has.default.vcs.root.mapping.disabled,active.changelists.count.1,ignored.files.count.0,unversioned.files.count.50K+,vcs.roots.count.1" collectionTime="1528700976352" />
+      <project id="ErexAndroid" values="ignored.files.count.0,unversioned.files.count.0,vcs.roots.count.1,has.default.vcs.root.mapping.disabled,active.changelists.count.1" collectionTime="1526692851959" />
+      <project id="MyApplication" values="unversioned.files.count.30+,vcs.roots.count.1,has.default.vcs.root.mapping.disabled,active.changelists.count.1,ignored.files.count.1" collectionTime="1526611451723" />
+    </group>
+    <group name="Git">
+      <project id="Whatsappclone" values="config.warn.about.detached.enabled,config.push.update.all.roots.enabled,data.remote.branches.count.0,config.update.type.BRANCH_DEFAULT,config.cherry-pick.autocommit.disabled,config.warn.about.crlf.enabled,version.2.16.2-CYGWIN,config.ssh.enabled,config.repo.sync.NOT_DECIDED,data.remotes.in.project.0,config.save.policy.STASH,config.push.autoupdate.disabled,data.local.branches.count.0,config.force.push.enabled" collectionTime="1528700976621" />
+      <project id="ErexAndroid" values="version.2.16.2-CYGWIN,config.force.push.enabled,config.update.type.BRANCH_DEFAULT,config.warn.about.detached.enabled,data.remote.branches.count.1,config.push.autoupdate.disabled,config.save.policy.STASH,config.cherry-pick.autocommit.disabled,config.warn.about.crlf.enabled,data.remotes.in.project.1,config.repo.sync.NOT_DECIDED,data.remote.servers.gitlab.com.1,config.ssh.enabled,data.local.branches.count.1,config.push.update.all.roots.enabled" collectionTime="1526692852364" />
+      <project id="MyApplication" values="config.update.type.BRANCH_DEFAULT,data.remote.branches.count.0,config.warn.about.detached.enabled,config.save.policy.STASH,data.remotes.in.project.0,config.cherry-pick.autocommit.disabled,config.force.push.enabled,config.warn.about.crlf.disabled,config.push.update.all.roots.enabled,config.repo.sync.DONT_SYNC,config.push.autoupdate.disabled,data.local.branches.count.0,version.2.16.2-CYGWIN,config.ssh.enabled" collectionTime="1526611451914" />
+    </group>
+    <group name="vcs-options">
+      <project id="Whatsappclone" values="check.conflicts.in.background.disabled,commit.before.optimize.imports.disabled,perform.edit.in.background.enabled,commit.before.check.code.smell.enabled,commit.use.right.margin.enabled,changelist.preselect.existing.disabled,offer.move.failed.committed.do_nothing_silently,commit.before.check.non.empty.comment.disabled,offer.remove.empty.changelist.show_confirmation,include.text.into.shelf.enabled,commit.show.unversioned.enabled,commit.clear.initial.comment.disabled,perform.update.in.background.enabled,commit.before.check.todo.enabled,commit.before.rearrange.disabled,commit.before.check.code.cleanup.disabled,changelist.make.new.active.disabled,offer.move.partially.committed.disabled,perform.commit.in.background.enabled,show.changes.preview.disabled,perform.checkout.in.background.enabled,perform.add_remove.in.background.enabled,commit.before.reformat.project.disabled,perform.rollback.in.background.disabled" collectionTime="1528700976352" />
+      <project id="ErexAndroid" values="commit.clear.initial.comment.disabled,changelist.make.new.active.disabled,commit.before.check.code.cleanup.disabled,check.conflicts.in.background.disabled,perform.commit.in.background.enabled,perform.edit.in.background.enabled,perform.rollback.in.background.disabled,commit.before.reformat.project.disabled,offer.move.failed.committed.do_nothing_silently,include.text.into.shelf.enabled,commit.use.right.margin.enabled,offer.remove.empty.changelist.show_confirmation,perform.add_remove.in.background.enabled,commit.before.check.todo.enabled,commit.before.check.code.smell.enabled,commit.before.check.non.empty.comment.disabled,perform.update.in.background.enabled,commit.before.optimize.imports.disabled,offer.move.partially.committed.disabled,commit.before.rearrange.disabled,changelist.preselect.existing.disabled,perform.checkout.in.background.enabled,show.changes.preview.disabled,commit.show.unversioned.enabled" collectionTime="1526692851956" />
+      <project id="MyApplication" values="include.text.into.shelf.enabled,perform.add_remove.in.background.enabled,commit.before.optimize.imports.disabled,perform.commit.in.background.enabled,perform.edit.in.background.enabled,show.changes.preview.disabled,offer.move.failed.committed.do_nothing_silently,perform.checkout.in.background.enabled,changelist.preselect.existing.disabled,commit.before.check.non.empty.comment.disabled,changelist.make.new.active.disabled,check.conflicts.in.background.disabled,offer.move.partially.committed.disabled,commit.show.unversioned.enabled,commit.before.rearrange.disabled,commit.clear.initial.comment.disabled,commit.before.check.code.smell.enabled,commit.before.check.todo.enabled,commit.before.reformat.project.disabled,commit.before.check.code.cleanup.disabled,perform.rollback.in.background.disabled,commit.use.right.margin.enabled,perform.update.in.background.enabled,offer.remove.empty.changelist.show_confirmation" collectionTime="1526611451722" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="StripeButton[Android Profiler].hidden" count="24" />
+      <entry feature="StripeButton[Android Profiler].shown" count="18" />
+      <entry feature="StripeButton[Version Control].shown" count="4" />
+      <entry feature="execute.AndroidRunConfigurationType.Android Profiler" count="1" />
+      <entry feature="execute.AndroidRunConfigurationType.Run" count="573" />
+      <entry feature="ide.settings.Git" count="7" />
+      <entry feature="ide.settings.GitHub" count="1" />
+      <entry feature="ide.settings.GitLab Integration" count="4" />
+      <entry feature="ide.settings.GitLink" count="1" />
+      <entry feature="ide.settings.Instant Run" count="4" />
+      <entry feature="ide.settings.Plugins" count="2" />
+      <entry feature="ide.settings.Schemas and DTDs" count="1" />
+      <entry feature="ide.settings.Settings Repository" count="2" />
+      <entry feature="idea.caches.invalidated" count="3" />
+      <entry feature="ideaapp.started" count="45" />
+      <entry feature="project.view.pane.AndroidView" count="7" />
+      <entry feature="project.view.pane.ProjectPane" count="8" />
+      <entry feature="project.view.pane.Scope.Project Files" count="1" />
+      <entry feature="terminal.win" count="1" />
+      <entry feature="tips.of.the.day.next" count="4" />
+      <entry feature="welcome.screen.ConfigureIcs" count="3" />
+      <entry feature="welcome.screen.WelcomeScreen.AndroidStudio.apkProfilingAndDebugging" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.Configure" count="28" />
+      <entry feature="welcome.screen.WelcomeScreen.Configure.Export" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.Configure.Import" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.CreateNewProject" count="4" />
+      <entry feature="welcome.screen.WelcomeScreen.Documentation" count="2" />
+      <entry feature="welcome.screen.WelcomeScreen.GetFromVcs" count="15" />
+      <entry feature="welcome.screen.WelcomeScreen.GoogleCloudTools.SampleImport" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.ImportProject" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.OpenProject" count="5" />
+      <entry feature="welcome.screen.WelcomeScreen.Plugins" count="2" />
+      <entry feature="welcome.screen.WelcomeScreen.RunAndroidSdkManager" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.Settings" count="13" />
+      <entry feature="welcome.screen.WelcomeScreen.Update" count="1" />
+      <entry feature="welcome.screen.null" count="3" />
+    </counts>
+  </component>
+</application>

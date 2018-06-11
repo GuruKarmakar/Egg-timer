@@ -1,0 +1,25 @@
+<application>
+  <component name="ToolbarClicksCollector">
+    <counts>
+      <entry action="Android Profiler@NavBarToolbar" count="1" />
+      <entry action="ChangesView.AddUnversioned.From.Dialog@SPECIFIC_FILES_DIALOG" count="2" />
+      <entry action="ChangesView.NewChangeList@ChangesViewToolbar" count="3" />
+      <entry action="ChangesView.Refresh@ChangesBrowser" count="2" />
+      <entry action="CheckinProject@ChangesViewToolbar" count="3" />
+      <entry action="CheckinProject@NavBarToolbar" count="17" />
+      <entry action="MakeGradleProject@NavBarToolbar" count="18" />
+      <entry action="Run@NavBarToolbar" count="449" />
+      <entry action="Vcs.Log.IntelliSortChooser@Vcs.Log.Toolbar" count="1" />
+      <entry action="com.android.tools.adtui.workbench.AttachedToolWindow$SearchAction@TOOL_WINDOW_TOOLBAR" count="13" />
+      <entry action="com.android.tools.idea.configurations.DeviceMenuAction@toolbar" count="8" />
+      <entry action="com.android.tools.idea.fd.actions.HotswapAction@NavBarToolbar" count="144" />
+      <entry action="com.intellij.build.CompositeView$SwitchViewAction@BuildView" count="4" />
+      <entry action="com.intellij.diagnostic.IdeErrorsDialog$BackAction@IdeErrorsBack" count="1" />
+      <entry action="com.intellij.execution.impl.ConsoleViewImpl$8@BuildView" count="1" />
+      <entry action="com.intellij.ide.actions.PreviousOccurenceToolbarAction@BuildView" count="1" />
+      <entry action="com.intellij.openapi.vcs.changes.ui.ChangesBrowserBase$MyShowDiffAction@ChangesBrowser" count="1" />
+      <entry action="com.intellij.openapi.vcs.changes.ui.ChangesTree$ToggleShowDirectoriesAction@ChangesBrowser" count="2" />
+      <entry action="com.intellij.ui.CommonActionsPanel$MyActionButton@ToolbarDecorator" count="11" />
+    </counts>
+  </component>
+</application>

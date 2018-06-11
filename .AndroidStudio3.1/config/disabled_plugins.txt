@@ -1,0 +1,4 @@
+com.neon.intellij.plugins.gitlab
+org.jetbrains.settingsRepository
+ru.trylogic.idea.gitlab.integration
+uk.co.ben-gibson.remote.repository.mapper

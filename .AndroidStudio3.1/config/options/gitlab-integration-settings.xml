@@ -1,0 +1,6 @@
+<application>
+  <component name="ConfigurableState">
+    <option name="host" value="Guruwap" />
+    <option name="token" value="https://gitlab.com/Guruwap/Erex-Android.git" />
+  </component>
+</application>

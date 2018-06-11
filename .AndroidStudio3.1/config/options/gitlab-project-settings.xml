@@ -1,0 +1,15 @@
+<application>
+  <component name="SettingsState">
+    <option name="host" value="" />
+    <option name="token" value="" />
+    <option name="servers">
+      <list>
+        <ServerDto>
+          <option name="defaultRemoveBranch" value="true" />
+          <option name="host" value="https://gitlab.com/Guruwap/Whatsapp-Clone.git" />
+          <option name="token" value="ZSzFJLDzyncgYsXRC-Pm" />
+        </ServerDto>
+      </list>
+    </option>
+  </component>
+</application>
