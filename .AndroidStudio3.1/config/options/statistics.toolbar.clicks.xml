@@ -6,7 +6,7 @@
       <entry action="ChangesView.NewChangeList@ChangesViewToolbar" count="3" />
       <entry action="ChangesView.Refresh@ChangesBrowser" count="2" />
       <entry action="CheckinProject@ChangesViewToolbar" count="3" />
-      <entry action="CheckinProject@NavBarToolbar" count="17" />
+      <entry action="CheckinProject@NavBarToolbar" count="18" />
       <entry action="MakeGradleProject@NavBarToolbar" count="18" />
       <entry action="Run@NavBarToolbar" count="449" />
       <entry action="Vcs.Log.IntelliSortChooser@Vcs.Log.Toolbar" count="1" />

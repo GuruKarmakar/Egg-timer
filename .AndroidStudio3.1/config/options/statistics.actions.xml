@@ -17,7 +17,7 @@
       <entry action="ChangesView.CreatePatch" count="1" />
       <entry action="ChangesView.NewChangeList" count="3" />
       <entry action="ChangesView.Refresh" count="2" />
-      <entry action="CheckinProject" count="23" />
+      <entry action="CheckinProject" count="24" />
       <entry action="ChooseRunConfiguration" count="1" />
       <entry action="CleanGradleProject" count="8" />
       <entry action="CollapseSelection" count="1" />
@@ -27,7 +27,7 @@
       <entry action="Create method from usage" count="2" />
       <entry action="Cvs.Import" count="1" />
       <entry action="Delete statement extracting side effects" count="1" />
-      <entry action="EditorBackSpace" count="11052" />
+      <entry action="EditorBackSpace" count="11077" />
       <entry action="EditorChooseLookupItem" count="1913" />
       <entry action="EditorCopy" count="132" />
       <entry action="EditorCut" count="84" />
